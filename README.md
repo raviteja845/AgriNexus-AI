@@ -83,10 +83,4 @@ Check each source's terms, availability, update frequency, and permitted use bef
 
 This is a decision-support concept, not a guarantee of market prices or farmer income. Data availability and quality may vary by crop, market, and location. Any recommendation should disclose missing data, assumptions, and forecast uncertainty.
 
-## Team
 
-Add team member names and roles here.
-
-## License
-
-See [LICENSE](LICENSE).
